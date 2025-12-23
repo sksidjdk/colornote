@@ -1,6 +1,6 @@
 {
-    "github_owner": "your-github-username",
-    "repo_name": "ColorNote",
+    "github_owner": "sksidjdk",
+    "repo_name": "colornote",
     "default_branch": "main",
     "vercel_project_name": "colornote"
 }
